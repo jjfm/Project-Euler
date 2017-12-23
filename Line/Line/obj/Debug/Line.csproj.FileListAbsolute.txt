@@ -1,0 +1,7 @@
+c:\users\jjfm\source\repos\Line\Line\bin\Debug\Line.exe.config
+c:\users\jjfm\source\repos\Line\Line\bin\Debug\Line.exe
+c:\users\jjfm\source\repos\Line\Line\bin\Debug\Line.pdb
+c:\users\jjfm\source\repos\Line\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+c:\users\jjfm\source\repos\Line\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+c:\users\jjfm\source\repos\Line\Line\obj\Debug\Line.exe
+c:\users\jjfm\source\repos\Line\Line\obj\Debug\Line.pdb
