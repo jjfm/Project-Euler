@@ -9,5 +9,5 @@ Every function are going to be commented aswell and every function are going to 
 ## Where can i find the puzzles?
 You can find all the puzzle [here](https://projecteuler.net/about)
 ## Completed puzzle
-  -Multiples of 3 and 5
-  -Even Fibonacci numbers
+  1-Multiples of 3 and 5
+  2-Even Fibonacci numbers
